@@ -89,8 +89,9 @@ main section .btnbox{
     background: #425265;
     color: #fff;
     margin-bottom: 2em;
-    border-bottom:  2px solid #fff;
+    border-bottom:  3px solid #fff;
     transition: all .3s;
+    border-radius: 5px;
 }
 .btnbox .btn:hover{
     background: #2d3846;
@@ -111,11 +112,12 @@ main section .text{
     padding: 2px 45px;
     margin-top: 1.3em;
     border-radius: 5px 5px 0 0;
-    border-bottom: 2px solid #fff;
+    border-bottom: 3px solid #fff;
     font-size: 20px;
     gap: 15px;
     cursor: pointer;
     transition: all .3s;
+    border-radius: 5px;
 }
 
 .btn-box2:hover{
